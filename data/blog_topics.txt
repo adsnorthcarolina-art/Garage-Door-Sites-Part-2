@@ -1,6 +1,5 @@
 # One topic per line: slug | working title | angle. The scheduled blog task takes the FIRST line,
 # writes the post to template/blog/<slug>.html, then deletes the line. Add topics anytime.
-how-long-garage-door-springs-last | How Long Do Garage Door Springs Last? Cycle Life Explained | 10,000-cycle standard, high-cycle options, two-car vs single, signs they're wearing out, replacing both
 garage-door-safety-sensor-troubleshooting | Garage Door Closes a Few Inches Then Reverses: Safety Sensor Fixes | alignment, sunlight interference, wiring, LED codes, when the opener board is the problem
 garage-door-insulation-r-value | Does an Insulated Garage Door Pay Off? R-Values Explained | polystyrene vs polyurethane, R-6/12/18, attached vs detached, noise, resale
 garage-door-wind-rated-doors | Wind-Rated Garage Doors: Who Needs One and What It Costs | pressure ratings, reinforcement struts, codes in coastal states, retrofit braces
